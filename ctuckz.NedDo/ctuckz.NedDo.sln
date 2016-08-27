@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctuckz.NedDo.Core", "ctuckz.NedDo.Core\ctuckz.NedDo.Core.csproj", "{599255F4-DE96-4F0A-A618-9AF368044FA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{527AE913-EFBA-4CCB-9F62-1F94C67B8261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctuckz.NedDo.Core.Test", "Test\ctuckz.NedDo.Core.Test\ctuckz.NedDo.Core.Test.csproj", "{97A877FD-F354-4FB8-AEF3-347A5860981F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599255F4-DE96-4F0A-A618-9AF368044FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599255F4-DE96-4F0A-A618-9AF368044FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599255F4-DE96-4F0A-A618-9AF368044FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599255F4-DE96-4F0A-A618-9AF368044FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A877FD-F354-4FB8-AEF3-347A5860981F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A877FD-F354-4FB8-AEF3-347A5860981F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A877FD-F354-4FB8-AEF3-347A5860981F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A877FD-F354-4FB8-AEF3-347A5860981F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97A877FD-F354-4FB8-AEF3-347A5860981F} = {527AE913-EFBA-4CCB-9F62-1F94C67B8261}
+	EndGlobalSection
+EndGlobal
